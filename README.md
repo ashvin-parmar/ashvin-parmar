@@ -3,9 +3,9 @@
 <p align="center">
 <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-ffdd00?style=for-the-badge&logo=googledocs&logoColor=black" style="vertical-align:center" /></a>
 <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=mainwp&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Hire Me-000?logo=maildotru&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/ashvinparmar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=mainwp&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://leetcode.com/u/ashvinparmar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="mailto:ashwinparmar8181@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Hire Me-000?logo=maildotru&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 
 <br>
 
@@ -13,7 +13,7 @@
   <img src="./img/ashvin_profile.png" width="200" height="200" alt="9xcode" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Google**
+- :office: &nbsp;I'm currently **Open to Work**
 - :seedling: &nbsp;I’m currently working as a **Full-Stack Software Engineer**
 - :speech_balloon: &nbsp;I like to talk about **C++, Java, DSA** and **System Design**
 - :book: &nbsp;Know more about my projects on my **[Resume]**
