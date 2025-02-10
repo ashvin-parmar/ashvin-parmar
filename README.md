@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Ashvin </h1>
-<p align="center">I am a software developer with expertise in C, C++, Core Java, and data structures. I have experience working with the Standard Template Library (STL), Modern C++, developing web servers, and working in Linux environments. I am proficient in version control systems like Git and GitHub and enjoy solving problems and building efficient solutions.</p>
-<p align="center">I have experience in designing and implementing software using a three-layered architecture, which typically consists of the presentation layer, business logic layer, and data access layer. This approach promotes separation of concerns, scalability, and maintainability in software development.</p> 
-<p align="center">I am currently focused on building a strong foundation in Machine Learning by creating tools from scratch. This hands-on approach allows me to deeply understand core concepts, algorithms, and their implementation. My aim is to develop efficient, custom solutions while gaining practical insights into the underlying mechanics of Machine Learning.</p>
+<p align="left">I am a software developer with expertise in C, C++, Core Java, and data structures. Experienced working with version control systems like Git and GitHub and on Linux environments.</p>
+
+<!-- <br> -->
 <p align="center">
 <a href="https://docs.google.com/document/d/1SF8s2uo9oykIxZ3OBl8LeeJFczvolE_diWwFvPr2-Ps/edit?usp=sharing" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-ffdd00?style=for-the-badge&logo=googledocs&logoColor=black" style="vertical-align:center" /></a>
 <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -15,16 +15,17 @@
   <img src="./img/ashvin_profile.png" width="200" height="200" alt="9xcode" align="right" />
 </a>
 
-- 💼 &nbsp;**Open to Work** – Actively seeking exciting opportunities in software development!
-- 🚀 &nbsp;**Full-Stack Software Engineer** – Passionate about building scalable and efficient solutions.  
-- 💬 &nbsp;Love discussing **C++, Java, DSA, and System Design** – Let’s talk tech!  
-- 📄 &nbsp;Know more about my projects on my **[Resume]**
-- 📩 &nbsp;Mail me to HIRE **[Mail]**
-- 🔗 &nbsp;Connect with me on **[LinkedIn]**
+<!-- <br> -->
+
+<!-- - 💼 &nbsp;**Open to Work** – Actively seeking exciting opportunities in software development!
+- 🚀 &nbsp;**Backend Software Developer** – Passionate about building scalable and efficient solutions.  
+- 💬 &nbsp;Love discussing **C++, Java, DSA, and System Design** – Let’s talk tech!   -->
 
 <br>
+<p align="left">I have experience in designing and implementing software using a three-layered architecture, which typically consists of the presentation layer, business logic layer, and data access layer. This approach promotes separation of concerns, scalability, and maintainability in software development.</p> 
+<p align="left">I am currently focused on building a strong foundation in Machine Learning by creating tools from scratch. This hands-on approach allows me to deeply understand core concepts, algorithms, and their implementation. My aim is to develop efficient, custom solutions while gaining practical insights into the underlying mechanics of Machine Learning.</p>
 
-<h2 align="left" id="ninexcode-tech">Favorite Tech</h2>
+<h2 align="left" id="ninexcode-tech">Working Tech</h2>
 
 > Technologies I work with: Languages, Tools, and Frameworks.
 
@@ -89,16 +90,11 @@
 
 <h2 align="left">LeetCode Profile</h2>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+> Passionate to code solutions to problems and develop new approach.
 
-  <a href="#">
+  <a href="https://leetcode.com/u/ashvinparmar/">
     <img alt="leetcode" src="./img/leetcode.png">
   </a>
-
-
-
-
-
 
 <!-- links -->
 
