@@ -36,15 +36,51 @@
     </td>
     <td align="center" width="96">
       <a href="#ninexcode-tech">
-        <img src="./icon/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./icon/cplusplus-original.svg" width="48" height="48" alt="CPlusPlus" />
       </a>
-      <br>Python
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="./icon/c-original.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="./icon/qt-original.svg" width="48" height="48" alt="QT" />
+      </a>
+      <br>QT
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="./icon/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="./icon/vim-original.svg" width="48" height="48" alt="Vim" />
+      </a>
+      <br>Vim
     </td>
     <td align="center" width="96">
       <a href="#ninexcode-tech">
         <img src="icon\linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="./icon/git-original.svg" width="48" height="48" alt="Git & Github" />
+      </a>
+      <br>Git & Github
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="./icon/gradle-original.svg" width="48" height="48" alt="Gradle" />
+      </a>
+      <br>Gradle
     </td>
   </tr>
 </table>
