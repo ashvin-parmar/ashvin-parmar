@@ -1,7 +1,9 @@
 <h1 align="center"> Hi 👋🏻, I'm Ashvin </h1>
-<p align="center">I love to code in C++, Java and Data Sctructure</p>
+<p align="center">I am a software developer with expertise in C, C++, Core Java, and data structures. I have experience working with the Standard Template Library (STL), Modern C++, developing web servers, and working in Linux environments. I am proficient in version control systems like Git and GitHub and enjoy solving problems and building efficient solutions.</p>
+<p align="center">I have experience in designing and implementing software using a three-layered architecture, which typically consists of the presentation layer, business logic layer, and data access layer. This approach promotes separation of concerns, scalability, and maintainability in software development.</p> 
+<p align="center">I am currently focused on building a strong foundation in Machine Learning by creating tools from scratch. This hands-on approach allows me to deeply understand core concepts, algorithms, and their implementation. My aim is to develop efficient, custom solutions while gaining practical insights into the underlying mechanics of Machine Learning.</p>
 <p align="center">
-<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-ffdd00?style=for-the-badge&logo=googledocs&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://docs.google.com/document/d/1SF8s2uo9oykIxZ3OBl8LeeJFczvolE_diWwFvPr2-Ps/edit?usp=sharing" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-ffdd00?style=for-the-badge&logo=googledocs&logoColor=black" style="vertical-align:center" /></a>
 <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/ashvinparmar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=mainwp&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://leetcode.com/u/ashvinparmar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -13,18 +15,18 @@
   <img src="./img/ashvin_profile.png" width="200" height="200" alt="9xcode" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently **Open to Work**
-- :seedling: &nbsp;I’m currently working as a **Full-Stack Software Engineer**
-- :speech_balloon: &nbsp;I like to talk about **C++, Java, DSA** and **System Design**
-- :book: &nbsp;Know more about my projects on my **[Resume]**
-- :mailbox: &nbsp;Mail me to HIRE **mymail@email.com**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 💼 &nbsp;**Open to Work** – Actively seeking exciting opportunities in software development!
+- 🚀 &nbsp;**Full-Stack Software Engineer** – Passionate about building scalable and efficient solutions.  
+- 💬 &nbsp;Love discussing **C++, Java, DSA, and System Design** – Let’s talk tech!  
+- 📄 &nbsp;Know more about my projects on my **[Resume]**
+- 📩 &nbsp;Mail me to HIRE **[Mail]**
+- 🔗 &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
 <h2 align="left" id="ninexcode-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Technologies I work with: Languages, Tools, and Frameworks.
 
 <table>
   <tr>
@@ -100,6 +102,6 @@
 
 <!-- links -->
 
-
-[linkedin]: https://www.linkedin.com/in/# "9xcode LinkedIn"
-[Resume]: # "My Resume"
+[Mail]:  mailto:ashwinparmar8181@gmail.com "Mail-To-Asvin"
+[Linkedin]: https://www.linkedin.com/in/ashvinparmar/ "Ashvin LinkedIn"
+[Resume]: https://docs.google.com/document/d/1SF8s2uo9oykIxZ3OBl8LeeJFczvolE_diWwFvPr2-Ps/edit?usp=sharing "My Resume"
