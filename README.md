@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋🏻, I'm Ashvin </h1>
-<p align="left">I am a software developer with expertise in C, C++, Core Java, and data structures. Experienced working with version control systems like Git and GitHub and on Linux environments.</p>
+<p align="center">I am a software developer with expertise in C, C++, Core Java, and data structures.</p>
 
 <!-- <br> -->
 <p align="center">
@@ -10,19 +10,18 @@
 <a href="mailto:ashwinparmar8181@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Hire Me-000?logo=maildotru&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 
 <br>
-
 <a href="#ninexcode-title">
   <img src="./img/ashvin_profile.png" width="200" height="200" alt="9xcode" align="right" />
 </a>
 
 <!-- <br> -->
 
-<!-- - 💼 &nbsp;**Open to Work** – Actively seeking exciting opportunities in software development!
+- 💼 &nbsp;**Open to Work** – Actively seeking exciting opportunities in software development!
 - 🚀 &nbsp;**Backend Software Developer** – Passionate about building scalable and efficient solutions.  
-- 💬 &nbsp;Love discussing **C++, Java, DSA, and System Design** – Let’s talk tech!   -->
+- 💬 &nbsp;Love discussing **C++, Java, DSA, and System Design** – Let’s talk tech!  
 
-<br>
-<p align="left">I have experience in designing and implementing software using a three-layered architecture, which typically consists of the presentation layer, business logic layer, and data access layer. This approach promotes separation of concerns, scalability, and maintainability in software development.</p> 
+<!-- <br> -->
+<p align="left">I have experience in designing and implementing software using a three-layered architecture, which typically consists of the presentation layer, business logic layer, and data access layer. This approach promotes separation of concerns, scalability, and maintainability in software development. Experienced working with version control systems like Git and GitHub and on Linux environments.</p> 
 <p align="left">I am currently focused on building a strong foundation in Machine Learning by creating tools from scratch. This hands-on approach allows me to deeply understand core concepts, algorithms, and their implementation. My aim is to develop efficient, custom solutions while gaining practical insights into the underlying mechanics of Machine Learning.</p>
 
 <h2 align="left" id="ninexcode-tech">Working Tech</h2>
