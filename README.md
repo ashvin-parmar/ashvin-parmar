@@ -3,7 +3,7 @@
 
 <!-- <br> -->
 <p align="center">
-<a href="https://docs.google.com/document/d/1SF8s2uo9oykIxZ3OBl8LeeJFczvolE_diWwFvPr2-Ps/edit?usp=sharing" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-ffdd00?style=for-the-badge&logo=googledocs&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://drive.google.com/drive/folders/1XGlwDVJ-BIznfIOgrQd-NqmP1a7LxiO8?usp=drive_link" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-ffdd00?style=for-the-badge&logo=googledocs&logoColor=black" style="vertical-align:center" /></a>
 <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/ashvinparmar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=mainwp&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://leetcode.com/u/ashvinparmar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
