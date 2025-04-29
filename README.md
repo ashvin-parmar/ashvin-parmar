@@ -56,6 +56,12 @@
     </td>
     <td align="center" width="96">
       <a href="#ninexcode-tech">
+        <img src="./icon/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
         <img src="./icon/sqlite-original.svg" width="48" height="48" alt="SQLite" />
       </a>
       <br>SQLite
