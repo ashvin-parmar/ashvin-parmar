@@ -21,7 +21,10 @@
 - 💬 &nbsp;Love discussing **C++, Java, DSA, and System Design** – Let’s talk tech!  
 
 <!-- <br> -->
+<!--
 <p align="left">I have experience in designing and implementing software using a three-layered architecture, which typically consists of the presentation layer, business logic layer, and data access layer. This approach promotes separation of concerns, scalability, and maintainability in software development. Experienced working with version control systems like Git and GitHub and on Linux environments.</p> 
+  -->
+  
 <p align="left">I am currently focused on building a strong foundation in Machine Learning by creating tools from scratch. This hands-on approach allows me to deeply understand core concepts, algorithms, and their implementation. My aim is to develop efficient, custom solutions while gaining practical insights into the underlying mechanics of Machine Learning.</p>
 
 <h2 align="left" id="ninexcode-tech">Working Tech</h2>
