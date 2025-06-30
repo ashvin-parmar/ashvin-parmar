@@ -101,7 +101,7 @@
 > Passionate to code solutions to problems and develop new approach.
 
   <a href="https://leetcode.com/u/ashvinparmar/">
-    <img alt="leetcode" src="./img/leetcode.jpg">
+    <img alt="leetcode" src="./img/leetcode.webp">
   </a>
 
 <!-- links -->
