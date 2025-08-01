@@ -101,7 +101,7 @@
 > Passionate to code solutions to problems and develop new approach.
 
   <a href="https://leetcode.com/u/ashvinparmar/">
-    <img alt="leetcode" src="./img/leetcode.webp">
+  <img alt="leetcode" src="./img/leetcode.webp" style='border-top-left-radius: 30px 50px; border-bottom-right-radius:50px 30px;'>
   </a>
 
 <!-- links -->
@@ -109,3 +109,18 @@
 [Mail]:  mailto:ashwinparmar8181@gmail.com "Mail-To-Asvin"
 [Linkedin]: https://www.linkedin.com/in/ashvinparmar/ "Ashvin LinkedIn"
 [Resume]: https://docs.google.com/document/d/1SF8s2uo9oykIxZ3OBl8LeeJFczvolE_diWwFvPr2-Ps/edit?usp=sharing "My Resume"
+
+<!-- here testing data -->
+<p align="center">
+    <h1 align="center">✩&emsp;Ashvin Parmar&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<p align="center">
+    <a href="https://leetcode.com/ashvinparmar/"><img width="48%" src="https://leetcode.card.workers.dev/ashvinparmar?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/ashvin-parmar"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-parmar&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
+
+
