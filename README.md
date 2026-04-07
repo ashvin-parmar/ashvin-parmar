@@ -59,21 +59,15 @@
     </td>
     <td align="center" width="96">
       <a href="#ninexcode-tech">
+        <img src="./icon/gradle-original.svg" width="48" height="48" alt="Gradle" />
+      </a>
+      <br>Gradle
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
         <img src="./icon/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-      </a>
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/vim-original.svg" width="48" height="48" alt="Vim" />
-      </a>
-      <br>Vim
     </td>
     <td align="center" width="96">
       <a href="#ninexcode-tech">
@@ -87,11 +81,50 @@
       </a>
       <br>Git & Github
     </td>
+   
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#ninexcode-tech">
-        <img src="./icon/gradle-original.svg" width="48" height="48" alt="Gradle" />
+        <img src="icon\html5-original.svg" width="48" height="48" alt="HTML5" />
       </a>
-      <br>Gradle
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="icon\css3-original.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="icon\javascript-plain.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="icon\tomcat-original.svg" width="48" height="48" alt="Tomcat" />
+      </a>
+      <br>Tomcat
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="icon\jquery-original.svg" width="48" height="48" alt="JQuery" />
+      </a>
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="./icon/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <a href="#ninexcode-tech">
+        <img src="./icon/vim-original.svg" width="48" height="48" alt="Vim" />
+      </a>
+      <br>Vim
     </td>
   </tr>
 </table>
@@ -101,7 +134,7 @@
 > Passionate to code solutions to problems and develop new approach.
 
   <a href="https://leetcode.com/u/ashvinparmar/">
-  <img alt="leetcode" src="./img/leetcode.webp" style='border-top-left-radius: 30px 50px; border-bottom-right-radius:50px 30px;'>
+  <img alt="leetcode" src="./img/leetcode_2025.webp" style='border-top-left-radius: 30px 50px; border-bottom-right-radius:50px 30px;'>
   </a>
 
 <!-- links -->
@@ -110,7 +143,7 @@
 [Linkedin]: https://www.linkedin.com/in/ashvinparmar/ "Ashvin LinkedIn"
 [Resume]: https://docs.google.com/document/d/1SF8s2uo9oykIxZ3OBl8LeeJFczvolE_diWwFvPr2-Ps/edit?usp=sharing "My Resume"
 
-<!-- here testing data -->
+<!-- here testing data
 <p align="center">
     <h1 align="center">✩&emsp;Ashvin Parmar&emsp;✩</h1>
 </p>
@@ -122,5 +155,6 @@
     <a href="https://leetcode.com/ashvinparmar/"><img width="48%" src="https://leetcode.card.workers.dev/ashvinparmar?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/ashvin-parmar"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-parmar&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
+-->
 
 
