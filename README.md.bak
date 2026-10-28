@@ -1,0 +1,165 @@
+<div align="center">
+
+# Ashvin Parmar
+
+### Java Developer | Backend & Core Systems Engineer
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1y53zLO--8srrA2zT7Uvqup71WzcMuza1/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashvinparmar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ashvinparmar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/ashvinparmar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:ashwinparmar8181@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## The Hook
+
+Backend-focused Software Engineer passionate about architecting scalable server-side systems, writing clean object-oriented code, and demystifying framework internals from first principles. Having engineered custom MVC and ORM engines from scratch and contributed to latency-sensitive trading platform architectures in C++, I bring deep systems-level Java mastery and am actively prepared to deliver value immediately to high-impact backend engineering teams.
+
+---
+
+## Visual Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Java_Servlets-ED8B00?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="Servlets" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Schema_Design-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="Schema Design" />
+  <img src="https://img.shields.io/badge/Connection_Pooling-00599C?style=for-the-badge&logo=database&logoColor=white" alt="Connection Pooling" />
+</p>
+
+### DevOps & Methodologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/OOP_&_Design_Patterns-4E5D6C?style=for-the-badge&logo=codeforces&logoColor=white" alt="Design Patterns" />
+</p>
+
+---
+
+## STAR-Powered Projects
+
+### 1. WEBRock: Servlet-Based MVC Web Framework
+- **Repository**: [View Code on GitHub](https://github.com/ashvin-parmar/j2ee-webapps/tree/master/webrock)
+- **Tech Stack**: Java, Java Servlets, Java Reflection API, Custom Annotations, Apache Tomcat, iText PDF, JavaScript (ES6)
+- **Situation & Task**: Traditional Java web applications heavily depended on verbose, error-prone XML configurations (`web.xml`) or monolithic black-box frameworks. The objective was to architect a production-grade, lightweight MVC web framework from first principles on raw Java Servlets to demystify Spring MVC internals and eliminate configuration overhead.
+- **Action (The "How")**:
+  - Implemented a centralized **Front Controller Dispatcher** handling incoming HTTP requests with declarative `@PATH` route resolution.
+  - Engineered a **recursive classpath scanner** that dynamically discovers and registers annotated controller components during Tomcat application startup via the Java Reflection API.
+  - Implemented **multi-scope `@AutoWired` dependency injection** (Request, Session, and Application scopes) and designed a declarative `@SecuredAccess` interceptor guard.
+  - Built an automated **ES6 client SDK generator** introspecting backend Java POJOs and controller signatures to emit typed, Promise-based AJAX client scripts.
+- **Result**:
+  - Reduced endpoint configuration overhead by **90%**, eliminating manual `web.xml` servlet mapping entries.
+  - Cut endpoint authorization boilerplate by **80%** using centralized annotation-based guards.
+  - Guaranteed **100% API contract synchronization** between frontend client calls and backend Java controllers.
+
+---
+
+### 2. ORMFM: Custom Object-Relational Mapping (ORM) Engine
+- **Repository**: [View Code on GitHub](https://github.com/ashvin-parmar/j2ee-webapps/tree/master/ormfm/WEB-INF)
+- **Tech Stack**: Java, JDBC, Java Reflection API, Custom Annotations, ThreadLocal, MySQL
+- **Situation & Task**: Writing repetitive raw JDBC operations introduces significant boilerplate code and creates critical risks of connection leaks and race conditions in concurrent multi-threaded Servlet environments. The objective was to design a lightweight, thread-safe persistence framework inspired by Hibernate.
+- **Action (The "How")**:
+  - Built a dynamic SQL generation engine driven by `@Table` and `@Column` annotations, paired with a fluent query builder API for type-safe database queries.
+  - Engineered a **`ThreadLocal`-based session manager** binding exactly one database connection per execution thread, enforcing strict transaction isolation and deterministic resource closure.
+  - Implemented an **in-memory `@Cacheable` LRU cache** backed by `LinkedHashMap` to serve high-frequency read requests directly from memory.
+  - Developed the **ORMFMTool CLI utility** utilizing JDBC `DatabaseMetaData` to inspect live relational schemas and auto-generate annotated entity POJOs.
+- **Result**:
+  - Slashed data-access layer boilerplate by **~70%** compared to raw JDBC implementations.
+  - Guaranteed **100% thread safety** and eliminated all database connection leaks during concurrent Servlet execution.
+  - Delivered **O(1) query response latency** for cached entity lookups, cutting redundant database round-trips.
+
+---
+
+### 3. ZestAlgo: Algorithmic Trading Platform (OMS Control Plane)
+- **Context**: TechZest Global Solutions (Software Developer Intern | Jul 2025 - Sep 2025)
+- **Tech Stack**: Modern C++, Decoupled Layered Architecture, Concurrency, State Machine Integrity, Backend Systems
+- **Situation & Task**: Institutional algorithmic trading platforms require deterministic execution, strict modular isolation, and complete prevention of invalid order transitions across latency-sensitive production pipelines.
+- **Action (The "How")**:
+  - Engineered the structural control plane of the trading platform using a decoupled layered architecture in Modern C++, completely isolating execution management modules from underlying protocol decoders.
+  - Designed core order validation state-machine logic and resilient exception-handling infrastructure within the Order Management System (OMS) controller block.
+- **Result**:
+  - Completely prevented invalid order state transitions during high-throughput, fault-sensitive market workflows.
+  - Enhanced module replaceability and lowered inter-layer coupling across latency-critical production pipelines.
+
+---
+
+## Active Growth & Currently Up-Skilling
+
+I believe an engineer's true strength lies in continuous self-improvement and practical application:
+- **Docker & Containerization**: Packaging Java Spring Boot services into lightweight containers and configuring multi-container Docker Compose environments.
+- **Microservices Architecture**: Mastering distributed backend concepts including Spring Cloud, API Gateways, Service Registries, and event streaming with Kafka.
+- **Cloud Fundamentals**: Deploying backend APIs, configuring relational databases, and managing IAM permissions on AWS (EC2, RDS).
+- **Algorithmic Mastery**: Consistent daily practice on LeetCode (**450+ solved**; covering Graphs, Dynamic Programming, Trees, and Binary Search).
+
+---
+
+## GitHub Metrics & Problem Solving
+
+<div align="center">
+
+<a href="https://github.com/ashvin-parmar" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashvin-parmar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/ashvin-parmar" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-parmar&theme=tokyonight&layout=compact&langs_count=5&hide_border=true&hide=html,css,cmake" width="48%" alt="Top Languages" />
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/ashvinparmar/" target="_blank">
+  <img src="https://leetcode.card.workers.dev/ashvinparmar?theme=dark&font=baloo&border=1&border_radius=8" width="48%" alt="LeetCode Stats" />
+</a>
+<a href="https://github.com/ashvin-parmar" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvin-parmar&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+## Call to Action: Connect With Me
+
+I am actively interviewing for **Junior Java Developer** and **Backend Systems Engineer** roles. If you are looking for a dedicated backend engineer who understands framework internals, writes testable and clean code, and learns rapidly, let's talk!
+
+- **Email**: [ashwinparmar8181@gmail.com](mailto:ashwinparmar8181@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ashvinparmar](https://www.linkedin.com/in/ashvinparmar/)
+- **Portfolio**: [ashvinparmar.vercel.app](https://ashvinparmar.vercel.app/)
+- **Resume**: [Download / View on Google Drive](https://drive.google.com/file/d/1y53zLO--8srrA2zT7Uvqup71WzcMuza1/view?usp=drive_link)
+- **Location**: Indore, India (Open to Relocation & Remote Roles)

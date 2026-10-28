@@ -1,172 +1,160 @@
-<h1 align="center"> Hi 👋🏻, I'm Ashvin </h1>
-<p align="center">I am a software developer with expertise in C, C++, Core Java, and data structures.</p>
+# Ashvin Parmar
 
-<!-- <br> -->
+### Java Developer | Backend Systems & Framework Engineer
+
 <p align="center">
-<a href="https://drive.google.com/drive/folders/1XGlwDVJ-BIznfIOgrQd-NqmP1a7LxiO8?usp=drive_link" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-ffdd00?style=for-the-badge&logo=googledocs&logoColor=black" style="vertical-align:center" /></a>
-<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/ashvinparmar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=mainwp&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://leetcode.com/u/ashvinparmar/" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="mailto:ashwinparmar8181@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Hire Me-000?logo=maildotru&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+  <a href="https://drive.google.com/file/d/1y53zLO--8srrA2zT7Uvqup71WzcMuza1/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashvinparmar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ashvinparmar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/ashvinparmar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:ashwinparmar8181@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!--
+ <a href="tel:+91 6261659781">
+    <img src="https://img.shields.io/badge/Phone_No.-brightgreen?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge" />
+  </a>
+  -->
+</p>
 
-<br>
-<a href="#ninexcode-title">
-  <img src="./img/ashvin_profile.png" width="200" height="200" alt="9xcode" align="right" />
+---
+
+## About Me
+
+Hi there! I am a backend-focused Software Engineer and aspiring **Java Developer** with real-world production internship experience and strong computer science fundamentals.
+
+To truly understand how modern enterprise frameworks work, I designed and built custom frameworks from scratch, including a **Servlet-based MVC framework** (recreating Spring MVC internals) and an **annotation-driven ORM** (recreating Hibernate/JPA mechanics) before moving to Spring Boot and Angular. I enjoy writing clean, maintainable code, solving complex algorithmic challenges, and building reliable backend services that solve real business problems.
+
+- **Current Goal**: Seeking a Java Developer / Backend Software Engineer role where I can contribute to high-quality codebases and collaborate with seasoned engineering teams.
+- **Problem Solving**: Solved **450+ problems** on LeetCode with **950+ GitHub contributions** over the past year.
+- **Production Experience**: Software Developer Intern at TechZest Global Solutions, working on C++ control plane architecture and order validation for institutional algorithmic trading.
+
+---
+
+## Technical Skills
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Java_Servlets-ED8B00?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="Servlets" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
+
+### Backend & Core Competencies
+- **Architecture & Design**: REST APIs, MVC Architecture, Dependency Injection (DI), Front Controller Pattern, Java Reflection API, Annotation Processing
+- **Concurrency & Internals**: Multithreading, Concurrency, ThreadLocal Session Management, Connection Pooling, Classpath Scanning
+- **Data & CS**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Relational Schema Design, Query Optimization
+
+### Databases & Developer Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## Highlighted Projects
+
+### 1. WEBRock: Full-Stack Servlet-Based MVC Web Framework
+- **Repository**: [Codebase on GitHub](https://github.com/ashvin-parmar/j2ee-webapps/tree/master/webrock)
+- **Tech Stack**: Java, Java Servlets, Java Reflection API, Custom Annotations, Apache Tomcat, iText PDF, JavaScript (ES6)
+- **What it does**: A lightweight MVC web framework built directly on raw Java Servlets that implements Spring MVC design principles from first principles, eliminating the need for rigid XML configuration.
+- **Key Features & Problems Solved**:
+  - Implemented a centralized **Front Controller Dispatcher** handling request routing dynamically via custom `@PATH` annotations.
+  - Engineered a **recursive classpath scanner** that inspects classes at Tomcat startup to auto-register endpoints, cutting endpoint configuration overhead by 90% without touching `web.xml`.
+  - Built multi-scope **`@AutoWired` dependency injection** across Request, Session, and Application scopes, and a declarative `@SecuredAccess` authorization guard that slashed security boilerplate by 80%.
+  - Designed an **automated ES6 client SDK generator** using Reflection to introspect Java controller methods and generate Promise-based AJAX client scripts, guaranteeing 100% API contract consistency between frontend and backend.
+
+---
+
+### 2. ORMFM: Custom Object-Relational Mapping (ORM) Engine
+- **Repository**: [Codebase on GitHub](https://github.com/ashvin-parmar/j2ee-webapps/tree/master/ormfm/WEB-INF)
+- **Tech Stack**: Java, JDBC, Java Reflection API, Custom Annotations, ThreadLocal, MySQL
+- **What it does**: A custom persistence framework inspired by Hibernate that simplifies database interactions with dynamic SQL assembly, object-relational mapping, and session isolation.
+- **Key Features & Problems Solved**:
+  - Created an annotation-based mapping system (`@Table`, `@Column`) paired with a fluent query builder, reducing raw JDBC boilerplate code by ~70%.
+  - Designed a **`ThreadLocal`-based session manager** binding exactly one database connection per thread, preventing connection leaks and ensuring strict transaction isolation in concurrent multi-threaded Servlet environments.
+  - Built an in-memory **`@Cacheable` LRU cache** backed by `LinkedHashMap`, serving frequent read queries in O(1) time to minimize unnecessary database round-trips.
+  - Included a CLI utility (`ORMFMTool`) that uses `DatabaseMetaData` to inspect live database schemas and auto-generate annotated entity POJOs.
+
+---
+
+### 3. ZestAlgo: Institutional Algorithmic Trading Platform (OMS Control Plane)
+- **Context**: TechZest Global Solutions (Software Developer Intern | Jul 2025 - Sep 2025)
+- **Tech Stack**: Modern C++, Layered Architecture, Concurrency, State Machine Design, Backend Systems
+- **What it does**: Core structural control plane and Order Management System (OMS) controller for a high-frequency algorithmic trading platform.
+- **Key Features & Problems Solved**:
+  - Engineered a decoupled layered architecture in Modern C++ isolating execution management logic from protocol decoders, improving modularity across latency-critical execution pipelines.
+  - Designed state-machine order validation rules and robust exception handlers in the OMS controller, eliminating invalid order state transitions during high-throughput execution workflows.
+
+---
+
+## What I Am Currently Learning & Focus Areas
+
+I believe in continuous learning and sharpening my backend engineering toolkit:
+- **Microservices Architecture**: Exploring Spring Cloud, API Gateways, Eureka Service Discovery, and event-driven patterns.
+- **Docker & Containerization**: Containerizing Java Spring Boot applications and writing multi-service Docker Compose setups.
+- **Data Structures & Algorithms**: Consistent problem solving on LeetCode focusing on Dynamic Programming, Graphs, and Trees.
+- **Cloud Foundations**: Learning core AWS concepts (EC2, S3, RDS) for deploying and monitoring scalable backend services.
+
+---
+
+## GitHub Stats & LeetCode Progress
+
+<div align="center">
+
+<a href="https://github.com/ashvin-parmar" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashvin-parmar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/ashvin-parmar" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-parmar&theme=tokyonight&layout=compact&langs_count=5&hide_border=true&hide=html,css,cmake" width="37%" alt="Top Languages" />
 </a>
 
-<!-- <br> -->
-
-- 💼 &nbsp;**Open to Work** – Actively seeking exciting opportunities in software development!
-- 🚀 &nbsp;**Backend Software Developer** – Passionate about building scalable and efficient solutions.
-- 💬 &nbsp;Love discussing **C++, Java, DSA, and System Design** – Let’s talk tech!
-
-<!-- <br> -->
-<!--
-<p align="left">I have experience in designing and implementing software using a three-layered architecture, which typically consists of the presentation layer, business logic layer, and data access layer. This approach promotes separation of concerns, scalability, and maintainability in software development. Experienced working with version control systems like Git and GitHub and on Linux environments.</p>
-  -->
-
-<p align="left">I am currently focused on building a strong foundation in Machine Learning by creating tools from scratch. This hands-on approach allows me to deeply understand core concepts, algorithms, and their implementation. My aim is to develop efficient, custom solutions while gaining practical insights into the underlying mechanics of Machine Learning.</p>
-
-<h2 align="left" id="ninexcode-tech">Working Tech</h2>
-
-> Technologies I work with: Languages, Tools, and Frameworks.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="icon\java-original.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/cplusplus-original.svg" width="48" height="48" alt="CPlusPlus" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/c-original.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/qt-original.svg" width="48" height="48" alt="QT" />
-      </a>
-      <br>QT
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/spring-original.svg" width="48" height="48" alt="SpringBoot" />
-      </a>
-      <br>SpringBoot
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/gradle-original.svg" width="48" height="48" alt="Gradle" />
-      </a>
-      <br>Gradle
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="icon\linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/git-original.svg" width="48" height="48" alt="Git & Github" />
-      </a>
-      <br>Git & Github
-    </td>
-
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="icon\html5-original.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="icon\css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="icon\javascript-plain.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="icon\tomcat-original.svg" width="48" height="48" alt="Tomcat" />
-      </a>
-      <br>Tomcat
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="icon\jquery-original.svg" width="48" height="48" alt="JQuery" />
-      </a>
-      <br>JQuery
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/maven-original.svg" width="48" height="48" alt="Maven" />
-      </a>
-      <br>Maven
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-      </a>
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <a href="#ninexcode-tech">
-        <img src="./icon/vim-original.svg" width="48" height="48" alt="Vim" />
-      </a>
-      <br>Vim
-    </td>
-  </tr>
-</table>
-
-<h2 align="left">LeetCode Profile</h2>
-
-> Passionate to code solutions to problems and develop new approach.
-
-  <a href="https://leetcode.com/u/ashvinparmar/">
-  <img alt="leetcode" src="./img/leetcode_2025.webp" style='border-top-left-radius: 30px 50px; border-bottom-right-radius:50px 30px;'>
-  </a>
-
-<!-- links -->
-
-[Mail]:  mailto:ashwinparmar8181@gmail.com "Mail-To-Asvin"
-[Linkedin]: https://www.linkedin.com/in/ashvinparmar/ "Ashvin LinkedIn"
-[Resume]: https://docs.google.com/document/d/1SF8s2uo9oykIxZ3OBl8LeeJFczvolE_diWwFvPr2-Ps/edit?usp=sharing "My Resume"
-
-<!-- here testing data
-<p align="center">
-    <h1 align="center">✩&emsp;Ashvin Parmar&emsp;✩</h1>
-</p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
 <br>
-<p align="center">
-    <a href="https://leetcode.com/ashvinparmar/"><img width="48%" src="https://leetcode.card.workers.dev/ashvinparmar?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/ashvin-parmar"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-parmar&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-</p>
--->
 
-<h2></h2>
+<a href="https://leetcode.com/u/ashvinparmar/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/ashvinparmar?theme=nord&font=Snippet&colors=%231a1b26%2C%23565f89%2C%2C%2C%23c0caf5%2C%2C%2C" width="47%" alt="LeetCode Card" />
+</a>
+
+<a href="https://github.com/ashvin-parmar" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvin-parmar&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+## Let's Connect!
+
+I am actively looking for **Junior Java Developer** and **Backend Software Engineer** opportunities. If you are hiring or would like to discuss clean code, Java internals, or system design, please feel free to reach out!
+
+- **Email**: [ashwinparmar8181@gmail.com](mailto:ashwinparmar8181@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ashvinparmar](https://www.linkedin.com/in/ashvinparmar/)
+- **Portfolio**: [ashvinparmar.vercel.app](https://ashvinparmar.vercel.app/)
+- **Resume**: [View on Google Drive](https://drive.google.com/file/d/1y53zLO--8srrA2zT7Uvqup71WzcMuza1/view?usp=drive_link)
+- **Location**: Indore, India (Open to on-site and remote roles)
